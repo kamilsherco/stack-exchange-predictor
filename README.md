@@ -1,1 +1,1 @@
-# stack-exchange-predictor
+# stock-exchange-predictor
