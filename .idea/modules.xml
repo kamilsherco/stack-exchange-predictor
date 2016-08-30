@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/stock-exchange-predictor.iml" filepath="$PROJECT_DIR$/.idea/stock-exchange-predictor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/angular2-seed-express.iml" filepath="$PROJECT_DIR$/.idea/angular2-seed-express.iml" />
     </modules>
   </component>
 </project>
